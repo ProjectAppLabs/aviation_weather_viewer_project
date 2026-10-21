@@ -1,5 +1,5 @@
-Django==6.0.5
-djangorestframework==3.17.1
+Django==6.0.8
+djangorestframework==3.17.2
 psycopg[binary]==3.3.4
 python-dotenv==1.2.2
 Pillow==13.0.0
